@@ -34,9 +34,3 @@ Open PowerShell in the script directory and run:
 
 ```powershell
 .\system-diagnostics.ps1
-
-## Example Output
-
-![Diagnostics Output](screenshots/script-output-1.png)
-![Diagnostics Output](screenshots/script-output-2.png)
-![Diagnostics Output](screenshots/script-output-3.png)
