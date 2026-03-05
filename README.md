@@ -55,12 +55,3 @@ A helpdesk technician can run this script to quickly check:
 
 The results provide a quick diagnostic snapshot to support troubleshooting or escalation.
 
-## Repository Structure
-
-helpdesk-automation/
-├── system-diagnostics.ps1
-├── README.md
-└── screenshots/
-    ├── script-output-1.png
-    ├── script-output-2.png
-    └── script-output-3.png
